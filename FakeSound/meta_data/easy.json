@@ -1,0 +1,556 @@
+{
+    "audios": [
+        {
+            "audio_id": "9IIa7qH29ps_6.12_7.4",
+            "label": 1,
+            "onset_offset": "6.12_7.4",
+            "filepath": "FakeSound/deepfake_data/easy/9IIa7qH29ps_6.12_7.4.wav"
+        },
+        {
+            "audio_id": "9IIa7qH29ps",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "FakeSound/deepfake_data/easy/9IIa7qH29ps.wav"
+        },
+        {
+            "audio_id": "eE0Ccm0JnaI_8.36_9.92",
+            "label": 1,
+            "onset_offset": "8.36_9.92",
+            "filepath": "FakeSound/deepfake_data/easy/eE0Ccm0JnaI_8.36_9.92.wav"
+        },
+        {
+            "audio_id": "eE0Ccm0JnaI",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "FakeSound/deepfake_data/easy/eE0Ccm0JnaI.wav"
+        },
+        {
+            "audio_id": "gifJv_gGUWY_3.88_5.6",
+            "label": 1,
+            "onset_offset": "3.88_5.6",
+            "filepath": "FakeSound/deepfake_data/easy/gifJv_gGUWY_3.88_5.6.wav"
+        },
+        {
+            "audio_id": "gifJv_gGUWY",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "FakeSound/deepfake_data/easy/gifJv_gGUWY.wav"
+        },
+        {
+            "audio_id": "lxh5TwoYqNs_0.36_1.68",
+            "label": 1,
+            "onset_offset": "0.36_1.68",
+            "filepath": "FakeSound/deepfake_data/easy/lxh5TwoYqNs_0.36_1.68.wav"
+        },
+        {
+            "audio_id": "lxh5TwoYqNs",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "FakeSound/deepfake_data/easy/lxh5TwoYqNs.wav"
+        },
+        {
+            "audio_id": "1UG_f45Q1H0_5.16_7.64",
+            "label": 1,
+            "onset_offset": "5.16_7.64",
+            "filepath": "FakeSound/deepfake_data/easy/1UG_f45Q1H0_5.16_7.64.wav"
+        },
+        {
+            "audio_id": "1UG_f45Q1H0",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "FakeSound/deepfake_data/easy/1UG_f45Q1H0.wav"
+        },
+        {
+            "audio_id": "6YwjeGoyc0I_5.16_6.36",
+            "label": 1,
+            "onset_offset": "5.16_6.36",
+            "filepath": "FakeSound/deepfake_data/easy/6YwjeGoyc0I_5.16_6.36.wav"
+        },
+        {
+            "audio_id": "6YwjeGoyc0I",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "FakeSound/deepfake_data/easy/6YwjeGoyc0I.wav"
+        },
+        {
+            "audio_id": "76oNHURGTGk_7.96_9.0",
+            "label": 1,
+            "onset_offset": "7.96_9.0",
+            "filepath": "FakeSound/deepfake_data/easy/76oNHURGTGk_7.96_9.0.wav"
+        },
+        {
+            "audio_id": "76oNHURGTGk",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "FakeSound/deepfake_data/easy/76oNHURGTGk.wav"
+        },
+        {
+            "audio_id": "Su8Aj9uqsz8_8.04_9.96",
+            "label": 1,
+            "onset_offset": "8.04_9.96",
+            "filepath": "FakeSound/deepfake_data/easy/Su8Aj9uqsz8_8.04_9.96.wav"
+        },
+        {
+            "audio_id": "Su8Aj9uqsz8",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "FakeSound/deepfake_data/easy/Su8Aj9uqsz8.wav"
+        },
+        {
+            "audio_id": "WbOEpL1IUso_8.12_9.96",
+            "label": 1,
+            "onset_offset": "8.12_9.96",
+            "filepath": "FakeSound/deepfake_data/easy/WbOEpL1IUso_8.12_9.96.wav"
+        },
+        {
+            "audio_id": "WbOEpL1IUso",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "FakeSound/deepfake_data/easy/WbOEpL1IUso.wav"
+        },
+        {
+            "audio_id": "3x_0EZFENtE_1.8_3.32",
+            "label": 1,
+            "onset_offset": "1.8_3.32",
+            "filepath": "FakeSound/deepfake_data/easy/3x_0EZFENtE_1.8_3.32.wav"
+        },
+        {
+            "audio_id": "3x_0EZFENtE",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "FakeSound/deepfake_data/easy/3x_0EZFENtE.wav"
+        },
+        {
+            "audio_id": "6oASxFj0w-8_7.8_9.96",
+            "label": 1,
+            "onset_offset": "7.8_9.96",
+            "filepath": "FakeSound/deepfake_data/easy/6oASxFj0w-8_7.8_9.96.wav"
+        },
+        {
+            "audio_id": "6oASxFj0w-8",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "FakeSound/deepfake_data/easy/6oASxFj0w-8.wav"
+        },
+        {
+            "audio_id": "VrTIDBAY3fE_3.4_5.4",
+            "label": 1,
+            "onset_offset": "3.4_5.4",
+            "filepath": "FakeSound/deepfake_data/easy/VrTIDBAY3fE_3.4_5.4.wav"
+        },
+        {
+            "audio_id": "VrTIDBAY3fE",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "FakeSound/deepfake_data/easy/VrTIDBAY3fE.wav"
+        },
+        {
+            "audio_id": "etN6T66Byn4_0.04_1.64",
+            "label": 1,
+            "onset_offset": "0.04_1.64",
+            "filepath": "FakeSound/deepfake_data/easy/etN6T66Byn4_0.04_1.64.wav"
+        },
+        {
+            "audio_id": "etN6T66Byn4",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "FakeSound/deepfake_data/easy/etN6T66Byn4.wav"
+        },
+        {
+            "audio_id": "w-oSwpsXIuU_2.24_3.28",
+            "label": 1,
+            "onset_offset": "2.24_3.28",
+            "filepath": "FakeSound/deepfake_data/easy/w-oSwpsXIuU_2.24_3.28.wav"
+        },
+        {
+            "audio_id": "w-oSwpsXIuU",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "FakeSound/deepfake_data/easy/w-oSwpsXIuU.wav"
+        },
+        {
+            "audio_id": "yrYES2UXvwA_8.28_9.88",
+            "label": 1,
+            "onset_offset": "8.28_9.88",
+            "filepath": "FakeSound/deepfake_data/easy/yrYES2UXvwA_8.28_9.88.wav"
+        },
+        {
+            "audio_id": "yrYES2UXvwA",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "FakeSound/deepfake_data/easy/yrYES2UXvwA.wav"
+        },
+        {
+            "audio_id": "2uZY7vm9kWA_3.44_4.92",
+            "label": 1,
+            "onset_offset": "3.44_4.92",
+            "filepath": "FakeSound/deepfake_data/easy/2uZY7vm9kWA_3.44_4.92.wav"
+        },
+        {
+            "audio_id": "2uZY7vm9kWA",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "FakeSound/deepfake_data/easy/2uZY7vm9kWA.wav"
+        },
+        {
+            "audio_id": "FcJcvDcHry8_6.88_8.56",
+            "label": 1,
+            "onset_offset": "6.88_8.56",
+            "filepath": "FakeSound/deepfake_data/easy/FcJcvDcHry8_6.88_8.56.wav"
+        },
+        {
+            "audio_id": "FcJcvDcHry8",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "FakeSound/deepfake_data/easy/FcJcvDcHry8.wav"
+        },
+        {
+            "audio_id": "a1vjSQEmKM0_2.68_5.92",
+            "label": 1,
+            "onset_offset": "2.68_5.92",
+            "filepath": "FakeSound/deepfake_data/easy/a1vjSQEmKM0_2.68_5.92.wav"
+        },
+        {
+            "audio_id": "a1vjSQEmKM0",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "FakeSound/deepfake_data/easy/a1vjSQEmKM0.wav"
+        },
+        {
+            "audio_id": "gBBMGolPi-w_4.36_6.16",
+            "label": 1,
+            "onset_offset": "4.36_6.16",
+            "filepath": "FakeSound/deepfake_data/easy/gBBMGolPi-w_4.36_6.16.wav"
+        },
+        {
+            "audio_id": "gBBMGolPi-w",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "FakeSound/deepfake_data/easy/gBBMGolPi-w.wav"
+        },
+        {
+            "audio_id": "6NtflY59nK0_0.04_3.84",
+            "label": 1,
+            "onset_offset": "0.04_3.84",
+            "filepath": "FakeSound/deepfake_data/easy/6NtflY59nK0_0.04_3.84.wav"
+        },
+        {
+            "audio_id": "6NtflY59nK0",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "FakeSound/deepfake_data/easy/6NtflY59nK0.wav"
+        },
+        {
+            "audio_id": "8lxZg-UQGq4_2.04_3.68",
+            "label": 1,
+            "onset_offset": "2.04_3.68",
+            "filepath": "FakeSound/deepfake_data/easy/8lxZg-UQGq4_2.04_3.68.wav"
+        },
+        {
+            "audio_id": "8lxZg-UQGq4",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "FakeSound/deepfake_data/easy/8lxZg-UQGq4.wav"
+        },
+        {
+            "audio_id": "BWoLJ9ZAWHQ_5.16_6.28",
+            "label": 1,
+            "onset_offset": "5.16_6.28",
+            "filepath": "FakeSound/deepfake_data/easy/BWoLJ9ZAWHQ_5.16_6.28.wav"
+        },
+        {
+            "audio_id": "BWoLJ9ZAWHQ",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "FakeSound/deepfake_data/easy/BWoLJ9ZAWHQ.wav"
+        },
+        {
+            "audio_id": "Itt-b2w7xLs_7.44_8.48",
+            "label": 1,
+            "onset_offset": "7.44_8.48",
+            "filepath": "FakeSound/deepfake_data/easy/Itt-b2w7xLs_7.44_8.48.wav"
+        },
+        {
+            "audio_id": "Itt-b2w7xLs",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "FakeSound/deepfake_data/easy/Itt-b2w7xLs.wav"
+        },
+        {
+            "audio_id": "JWhluDEyHfM_0.64_3.08",
+            "label": 1,
+            "onset_offset": "0.64_3.08",
+            "filepath": "FakeSound/deepfake_data/easy/JWhluDEyHfM_0.64_3.08.wav"
+        },
+        {
+            "audio_id": "JWhluDEyHfM",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "FakeSound/deepfake_data/easy/JWhluDEyHfM.wav"
+        },
+        {
+            "audio_id": "ZVUDIspSmfg_6.0_7.88",
+            "label": 1,
+            "onset_offset": "6.0_7.88",
+            "filepath": "FakeSound/deepfake_data/easy/ZVUDIspSmfg_6.0_7.88.wav"
+        },
+        {
+            "audio_id": "ZVUDIspSmfg",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "FakeSound/deepfake_data/easy/ZVUDIspSmfg.wav"
+        },
+        {
+            "audio_id": "lVM9xQw5Tt4_4.68_6.84",
+            "label": 1,
+            "onset_offset": "4.68_6.84",
+            "filepath": "FakeSound/deepfake_data/easy/lVM9xQw5Tt4_4.68_6.84.wav"
+        },
+        {
+            "audio_id": "lVM9xQw5Tt4",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "FakeSound/deepfake_data/easy/lVM9xQw5Tt4.wav"
+        },
+        {
+            "audio_id": "wob-3S4VjMs_0.16_3.8",
+            "label": 1,
+            "onset_offset": "0.16_3.8",
+            "filepath": "FakeSound/deepfake_data/easy/wob-3S4VjMs_0.16_3.8.wav"
+        },
+        {
+            "audio_id": "wob-3S4VjMs",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "FakeSound/deepfake_data/easy/wob-3S4VjMs.wav"
+        },
+        {
+            "audio_id": "0z97A0GYhAQ_1.72_3.88",
+            "label": 1,
+            "onset_offset": "1.72_3.88",
+            "filepath": "FakeSound/deepfake_data/easy/0z97A0GYhAQ_1.72_3.88.wav"
+        },
+        {
+            "audio_id": "0z97A0GYhAQ",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "FakeSound/deepfake_data/easy/0z97A0GYhAQ.wav"
+        },
+        {
+            "audio_id": "4Od4VIPfd8Q_2.88_4.72",
+            "label": 1,
+            "onset_offset": "2.88_4.72",
+            "filepath": "FakeSound/deepfake_data/easy/4Od4VIPfd8Q_2.88_4.72.wav"
+        },
+        {
+            "audio_id": "4Od4VIPfd8Q",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "FakeSound/deepfake_data/easy/4Od4VIPfd8Q.wav"
+        },
+        {
+            "audio_id": "8Twpl5_zhtk_7.6_9.64",
+            "label": 1,
+            "onset_offset": "7.6_9.64",
+            "filepath": "FakeSound/deepfake_data/easy/8Twpl5_zhtk_7.6_9.64.wav"
+        },
+        {
+            "audio_id": "8Twpl5_zhtk",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "FakeSound/deepfake_data/easy/8Twpl5_zhtk.wav"
+        },
+        {
+            "audio_id": "9CCtYA4LL_Y_4.48_6.4",
+            "label": 1,
+            "onset_offset": "4.48_6.4",
+            "filepath": "FakeSound/deepfake_data/easy/9CCtYA4LL_Y_4.48_6.4.wav"
+        },
+        {
+            "audio_id": "9CCtYA4LL_Y",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "FakeSound/deepfake_data/easy/9CCtYA4LL_Y.wav"
+        },
+        {
+            "audio_id": "BAQUVmezAtM_7.44_8.76",
+            "label": 1,
+            "onset_offset": "7.44_8.76",
+            "filepath": "FakeSound/deepfake_data/easy/BAQUVmezAtM_7.44_8.76.wav"
+        },
+        {
+            "audio_id": "BAQUVmezAtM",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "FakeSound/deepfake_data/easy/BAQUVmezAtM.wav"
+        },
+        {
+            "audio_id": "BX97GSppRT0_6.52_9.96",
+            "label": 1,
+            "onset_offset": "6.52_9.96",
+            "filepath": "FakeSound/deepfake_data/easy/BX97GSppRT0_6.52_9.96.wav"
+        },
+        {
+            "audio_id": "BX97GSppRT0",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "FakeSound/deepfake_data/easy/BX97GSppRT0.wav"
+        },
+        {
+            "audio_id": "0293c8nIIJM_7.76_9.8",
+            "label": 1,
+            "onset_offset": "7.76_9.8",
+            "filepath": "FakeSound/deepfake_data/easy/0293c8nIIJM_7.76_9.8.wav"
+        },
+        {
+            "audio_id": "0293c8nIIJM",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "FakeSound/deepfake_data/easy/0293c8nIIJM.wav"
+        },
+        {
+            "audio_id": "3MidYCZfc6I_2.88_5.48",
+            "label": 1,
+            "onset_offset": "2.88_5.48",
+            "filepath": "FakeSound/deepfake_data/easy/3MidYCZfc6I_2.88_5.48.wav"
+        },
+        {
+            "audio_id": "3MidYCZfc6I",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "FakeSound/deepfake_data/easy/3MidYCZfc6I.wav"
+        },
+        {
+            "audio_id": "3aE6hmaU0Og_7.64_9.96",
+            "label": 1,
+            "onset_offset": "7.64_9.96",
+            "filepath": "FakeSound/deepfake_data/easy/3aE6hmaU0Og_7.64_9.96.wav"
+        },
+        {
+            "audio_id": "3aE6hmaU0Og",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "FakeSound/deepfake_data/easy/3aE6hmaU0Og.wav"
+        },
+        {
+            "audio_id": "4wMUcrBFmz4_5.68_8.36",
+            "label": 1,
+            "onset_offset": "5.68_8.36",
+            "filepath": "FakeSound/deepfake_data/easy/4wMUcrBFmz4_5.68_8.36.wav"
+        },
+        {
+            "audio_id": "4wMUcrBFmz4",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "FakeSound/deepfake_data/easy/4wMUcrBFmz4.wav"
+        },
+        {
+            "audio_id": "Al4wQEfSDGY_0.04_2.36",
+            "label": 1,
+            "onset_offset": "0.04_2.36",
+            "filepath": "FakeSound/deepfake_data/easy/Al4wQEfSDGY_0.04_2.36.wav"
+        },
+        {
+            "audio_id": "Al4wQEfSDGY",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "FakeSound/deepfake_data/easy/Al4wQEfSDGY.wav"
+        },
+        {
+            "audio_id": "FQV43mo_bCU_0.04_1.44",
+            "label": 1,
+            "onset_offset": "0.04_1.44",
+            "filepath": "FakeSound/deepfake_data/easy/FQV43mo_bCU_0.04_1.44.wav"
+        },
+        {
+            "audio_id": "FQV43mo_bCU",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "FakeSound/deepfake_data/easy/FQV43mo_bCU.wav"
+        },
+        {
+            "audio_id": "yXBRB97cBWI_4.8_7.0",
+            "label": 1,
+            "onset_offset": "4.8_7.0",
+            "filepath": "FakeSound/deepfake_data/easy/yXBRB97cBWI_4.8_7.0.wav"
+        },
+        {
+            "audio_id": "yXBRB97cBWI",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "FakeSound/deepfake_data/easy/yXBRB97cBWI.wav"
+        },
+        {
+            "audio_id": "yuihYPxtwEQ_0.76_2.04",
+            "label": 1,
+            "onset_offset": "0.76_2.04",
+            "filepath": "FakeSound/deepfake_data/easy/yuihYPxtwEQ_0.76_2.04.wav"
+        },
+        {
+            "audio_id": "yuihYPxtwEQ",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "FakeSound/deepfake_data/easy/yuihYPxtwEQ.wav"
+        },
+        {
+            "audio_id": "zoiiG-gK5T0_2.16_5.56",
+            "label": 1,
+            "onset_offset": "2.16_5.56",
+            "filepath": "FakeSound/deepfake_data/easy/zoiiG-gK5T0_2.16_5.56.wav"
+        },
+        {
+            "audio_id": "zoiiG-gK5T0",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "FakeSound/deepfake_data/easy/zoiiG-gK5T0.wav"
+        },
+        {
+            "audio_id": "1vG5Ej6bV4U_4.56_5.92",
+            "label": 1,
+            "onset_offset": "4.56_5.92",
+            "filepath": "FakeSound/deepfake_data/easy/1vG5Ej6bV4U_4.56_5.92.wav"
+        },
+        {
+            "audio_id": "1vG5Ej6bV4U",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "FakeSound/deepfake_data/easy/1vG5Ej6bV4U.wav"
+        },
+        {
+            "audio_id": "6o7_GzHdVDc_1.56_2.68",
+            "label": 1,
+            "onset_offset": "1.56_2.68",
+            "filepath": "FakeSound/deepfake_data/easy/6o7_GzHdVDc_1.56_2.68.wav"
+        },
+        {
+            "audio_id": "6o7_GzHdVDc",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "FakeSound/deepfake_data/easy/6o7_GzHdVDc.wav"
+        },
+        {
+            "audio_id": "Ai6ynjVDKrY_7.12_8.72",
+            "label": 1,
+            "onset_offset": "7.12_8.72",
+            "filepath": "FakeSound/deepfake_data/easy/Ai6ynjVDKrY_7.12_8.72.wav"
+        },
+        {
+            "audio_id": "Ai6ynjVDKrY",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "FakeSound/deepfake_data/easy/Ai6ynjVDKrY.wav"
+        },
+        {
+            "audio_id": "_nSIzPiMb28_7.16_8.36",
+            "label": 1,
+            "onset_offset": "7.16_8.36",
+            "filepath": "FakeSound/deepfake_data/easy/_nSIzPiMb28_7.16_8.36.wav"
+        },
+        {
+            "audio_id": "_nSIzPiMb28",
+            "label": 0,
+            "onset_offset": "0_0",
+            "filepath": "FakeSound/deepfake_data/easy/_nSIzPiMb28.wav"
+        }
+    ]
+}
