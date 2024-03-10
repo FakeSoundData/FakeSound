@@ -31,7 +31,7 @@ You can download the raw audio from [AudioCaps](https://audiocaps.github.io/).
 The manipulated audio can be downloaded from [FakeSound](https://drive.google.com/file/d/1Zma4npCeTmdvoNc3xRvQrzpHRlJkRWK4/view?usp=sharing).
 
 We provide the results of the Grounding model for key region detection. 
-**you can also reproduce FakeSound dataset** by regenerating key regions based on the results of the grounding,  using audio generation models [AudioLDM](https://github.com/haoheliu/AudioLDM)/[AudioLDM2](https://github.com/haoheliu/audioldm2) and super resolution model [AudioSR](https://github.com/haoheliu/versatile_audio_super_resolution).  
+**You can also reproduce FakeSound dataset** by regenerating key regions based on the results of the grounding,  using audio generation models [AudioLDM](https://github.com/haoheliu/AudioLDM)/[AudioLDM2](https://github.com/haoheliu/audioldm2) and super resolution model [AudioSR](https://github.com/haoheliu/versatile_audio_super_resolution).  
 The metadata for the training and test sets is contained in the file *"deepfake_data/{}.json"*, where 
 * the *"audio_id"* format is *{AudioCaps_id}{onset}{offset}* or *{AudioCaps_id}*, 
 * the *"label"* is *"0"* for deepfake audio, with reconstructed regions indicated as *"onset_offset"*.  
