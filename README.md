@@ -28,7 +28,7 @@ git clone https://github.com/cwx-worst-one/EAT
 ## Data Preparation
 Due to copyright issues, we are unable to provide the original AudioCaps audio data.
 You can download the raw audio from [AudioCaps](https://audiocaps.github.io/).
-The manipulated audio can be downloaded from [FakeSound](https://drive.google.com/file/d/1Zma4npCeTmdvoNc3xRvQrzpHRlJkRWK4/view?usp=sharing).
+The manipulated audio can be downloaded from [FakeSound](https://pan.baidu.com/s/1MlwCQHfniO8jFUw7-fsFJg?pwd=fake), with the extraction code "fake".
 
 We provide the results of the Grounding model for key region detection. 
 **You can also reproduce FakeSound dataset** by regenerating key regions based on the results of the grounding,  using audio generation models [AudioLDM](https://github.com/haoheliu/AudioLDM)/[AudioLDM2](https://github.com/haoheliu/audioldm2) and super resolution model [AudioSR](https://github.com/haoheliu/versatile_audio_super_resolution).  
