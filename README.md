@@ -1,4 +1,6 @@
 # FakeSound：Deepfake General Audio Detection
+[![arXiv](https://img.shields.io/badge/arXiv-2308.05734-brightgreen.svg?style=flat-square)](https://arxiv.org/abs/2406.08052)
+[![githubio](https://img.shields.io/badge/GitHub.io-Audio_Samples-blue?logo=Github&style=flat-square)](https://fakesounddata.github.io/)
 Here we present our framework for **Deepfake General Audio Detection**, which aims to identify whether the audio is genuine or deepfake and to locate deepfake regions. Specifically, we:
 
 * Propose the task of deepfake general audio detection and established a benchmark for evaluation.
@@ -28,7 +30,7 @@ git clone https://github.com/cwx-worst-one/EAT
 ## Data Preparation
 Due to copyright issues, we are unable to provide the original AudioCaps audio data.
 You can download the raw audio from [AudioCaps](https://audiocaps.github.io/).
-The manipulated audio can be downloaded from [FakeSound](https://pan.baidu.com/s/1MlwCQHfniO8jFUw7-fsFJg?pwd=fake), with the extraction code "fake".
+The manipulated audio can be downloaded from (1) [HuggingfaceDataset](https://huggingface.co/datasets/ZeyuXie/FakeSound/tree/main) or (2) [FakeSound](https://pan.baidu.com/s/1MlwCQHfniO8jFUw7-fsFJg?pwd=fake), with the extraction code "fake".
 
 We provide the results of the Grounding model for key region detection. 
 **You can also reproduce FakeSound dataset** by regenerating key regions based on the results of the grounding,  using audio generation models [AudioLDM](https://github.com/haoheliu/AudioLDM)/[AudioLDM2](https://github.com/haoheliu/audioldm2) and super resolution model [AudioSR](https://github.com/haoheliu/versatile_audio_super_resolution).  
