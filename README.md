@@ -1,6 +1,7 @@
 # FakeSound：Deepfake General Audio Detection
 [![arXiv](https://img.shields.io/badge/arXiv-2308.05734-brightgreen.svg?style=flat-square)](https://arxiv.org/abs/2406.08052)
 [![githubio](https://img.shields.io/badge/GitHub.io-Audio_Samples-blue?logo=Github&style=flat-square)](https://fakesounddata.github.io/)
+
 Here we present our framework for **Deepfake General Audio Detection**, which aims to identify whether the audio is genuine or deepfake and to locate deepfake regions. Specifically, we:
 
 * Propose the task of deepfake general audio detection and established a benchmark for evaluation.
